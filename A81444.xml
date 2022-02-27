@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue upon the burning of the Pope and Presbyter, in effigie at Westminster, Novem. 5. 1681</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81444</idno>
+            <idno type="STC">Wing D1371A</idno>
+            <idno type="STC">ESTC R204368</idno>
+            <idno type="EEBO-CITATION">99896884</idno>
+            <idno type="PROQUEST">99896884</idno>
+            <idno type="VID">132707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81444)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132707)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2465:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue upon the burning of the Pope and Presbyter, in effigie at Westminster, Novem. 5. 1681</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Janeway in Queens-head-Alley in Pater-Noster-Row,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132707:1" rendition="simple:additions"/>
+            <p>A DIALOGUE UPON THE Burning of the Pope AND PRESBYTER, IN EFFIGIE AT <hi>WESTMINSTER,</hi> Novem. 5. 1681.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Janeway</hi> in <hi>Queens-head-Alley</hi> in <hi>Pater-Noſter-Row.</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:132707:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:132707:2" rendition="simple:additions"/>
+            <head>A DIALOGUE upon the burning of the <hi>POPE,</hi> &amp;c.</head>
+            <sp>
+               <speaker>Pope</speaker>
+               <p>
+                  <hi>JEſu, Maria!</hi> What Monſter is this! of all the Hobgoblins in Purgatory, certainly there is none like this. Well, <hi>in nomine Sancti Petri,</hi> I con<g ref="char:EOLhyphen"/>jure thee to tell me Who or What thou art?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>Thou great <hi>Apollyon,</hi> profound <hi>Mystery</hi> of iniquity! I am unwilling to tell thee, knowing my Name and Office will be more frightful than my aſpect.—</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>It can never be, what are they?</p>
+            </sp>
+            <sp>
+               <speaker>Presbyt.</speaker>
+               <p>My name is <hi>Catholick,</hi> and my Office to <hi>gain Souls.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>O my dear Son! I hug thee—I embrace thee.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>Nay not too faſt (Holy Father) leſt you repent of your favours, and turn your Bleſſings into Curſes.—</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I give thee a plenary Pardon—free thee from Purgatory, and pronounce thee Saint and Martyr for thy cou<g ref="char:EOLhyphen"/>rage and conſtancy in the Cauſe, even at the very Stake.—</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>You will retract all this, when you underſtand me aright, and ſo forfeit your <hi>Infallibility</hi> before all theſe Hereticks, who have condemned you to that viſible Pur<g ref="char:EOLhyphen"/>gatory, from which I fear, you will not be able to deliver your ſelf, much leſs me.—</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>You miſtake me, I call not this material Fire, Pur<g ref="char:EOLhyphen"/>gatory, but the flames of another World; where Souls, <hi>&amp;c</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>Preſ.</speaker>
+               <p>And I believe no Purgatory in your ſenſe, hereafter.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>How? and yet call your ſelf <hi>Catholick!</hi> what do you mean?</p>
+            </sp>
+            <sp>
+               <speaker>Preſ.</speaker>
+               <p>I mean not <hi>Roman Catholick,</hi> but <hi>Chriſtian Catho<g ref="char:EOLhyphen"/>lick,</hi> or a <hi>Reformed</hi> Chriſtian, or <hi>Protestant.</hi> And my Office is to gain Souls, not to Antichriſt, but to Jeſus Chriſt; who ſhed his precious Blood to redeem Souls. And this I do by fervent Prayers, ſeaſonable Admonitions, ſincere Preaching of the Goſpel in ſeaſon and out of ſeaſon, and a due Admi<g ref="char:EOLhyphen"/>niſtration of the Sacraments.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I begin to ſmell him—and ſhall find him out by my next Queſtion,—How many Sacraments are there?</p>
+            </sp>
+            <sp>
+               <speaker>Preſ.</speaker>
+               <p>Two only inſtituted by Chriſt, Baptiſm, and the Lords Supper.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>What then becomes of Marriage, Ordination, Ex<g ref="char:EOLhyphen"/>tream Unction, and the reſt?</p>
+            </sp>
+            <sp>
+               <speaker>Preſ.</speaker>
+               <p>They are where they were intended, and where I wiſh they may always remain, at <hi>Rome,</hi> and among the <hi>Roman Catholicks,</hi> whoſe Faith is Faction, whoſe Promiſes are Equivocations, whoſe Worſhip is Idolatry, whoſe Prin<g ref="char:EOLhyphen"/>ciples are High-Treaſon, whoſe Mercies are Cruelties, whoſe practices are Stabbing and Poiſoning of <hi>Kings,</hi> whoſe frame of Government is a Politick Deſign to bring the
+<pb n="4" facs="tcp:132707:3" rendition="simple:additions"/>necks of Princes and Nobles under their i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on Yoak and whoſe God is a pretty, little, tiney thing which the <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>eſt firſt creates with a Charm of four words long then wor<g ref="char:EOLhyphen"/>ſhips it, and afterwards chops him up at a hit, and makes no bones of him.—Now your bleſſing, <hi>Lucifer Junior.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Bleſs thee! All the Curſes of <hi>Aſhwedneſday</hi> and of the 69. <hi>Pſalm</hi> light upon thee. And may all the tortures of my Inquiſition, and torments of Purgatory, overtake thee in this Life and that to come,—<hi>Thou worst of Hereticks: The German Bull</hi> never roar'd ſo loud as thou doſt.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>Yet ſo loud, that (thanks be to God) he hath ſpoiled the roaring of your <hi>Bulls</hi> amongſt us.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Not quite tho; There are ſome amongſt you re<g ref="char:EOLhyphen"/>gard them as much as they do an Act of P— And tho the rude Multitude make themſelves ſport with me in <hi>puppet,</hi> yet I have ſome <hi>true hearts</hi> amongſt you, who are troubled to ſee it, and wiſh an opportunity to revenge it.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>All this I can believe without Swearing, being convinced of the truth of it by your Deſign in your late <hi>Plot</hi> againſt our King, his Government and Religion (gra<g ref="char:EOLhyphen"/>ciouſly and ſeaſonably diſcovered by Divine Providence) which if it had taken effect, the <hi>Hereticks,</hi> by this time, might have gone to pot in <hi>England,</hi> as faſt as they have done in <hi>France, Spain, Italy</hi> and <hi>Germany,</hi> (not to mention <hi>Ireland</hi>) in all which places, ſince the firſt riſe of the Jeſuits, to the year 1580, almoſt Nine hundred thouſand Proteſtants were put to death. And we believe you are no Changelings.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Nor you neither, for you are the ſtiffeſt Here<g ref="char:EOLhyphen"/>tick I ever talked with. Pray of which ſtamp of He<g ref="char:EOLhyphen"/>reticks are you? For there are two ſorts, <hi>Conforming</hi> and <hi>Nonconforming,</hi> or <hi>Conſenting</hi> and <hi>Diſſenting Hereticks.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>So then I perceive, neither Barrel is better Her<g ref="char:EOLhyphen"/>ring in your account?</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>By St. <hi>Stafford,</hi> not much difference, if any: but anſwer me, of which ſort are you?</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>Of no ſort of Hereticks. But if it may do you any good to know it, I am a <hi>Nonconforming,</hi> or diſſenting Proteſtant.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>And the Deviliſheſt one I ever met with Let me ſuf<g ref="char:EOLhyphen"/>fer a 1000 years in <hi>Purgatory,</hi> if I did not think as much by your Garb. Your tipt Cap, long Cloak, and ſhort Jerkin be<g ref="char:EOLhyphen"/>ſpeak you as rank an <hi>Heretick,</hi> as inveterate an <hi>Enemy</hi> to ho<g ref="char:EOLhyphen"/>ly Mother the Church, and to my ſelf the <hi>Head</hi> of it, as any in the Nation. Let the Curſe of my own <hi>Bulls</hi> light upon me, if I don't believe you are that <hi>Heretical Rogue</hi> that put out the <hi>Proteſtant Almanacks,</hi> wherein you have raked together all the enormities men or Devils can commit, and charged them upon us, to render me and my whole body Ec<g ref="char:EOLhyphen"/>cleſiaſtical hateful and odious to the world.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:132707:3" rendition="simple:additions"/>
+               <speaker>Presbyt.</speaker>
+               <p>I don't tell you I writ them: But I tell you to your Tooth I have read them, and find nothing but <hi>truth</hi> in them.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>
+                  <hi>Truth!</hi> burn ye—nothing but <hi>truth</hi> in all thoſe Packets of Heretical Forgeries? burning is too good for you; And the very Circumſtance of time confers too great an Honour upon you, as if you died a <hi>Martyr</hi> for having an hand in that glorious un<g ref="char:EOLhyphen"/>dertaking of the <hi>Powder Plot.</hi> Whereas you are a ſtubborn Here<g ref="char:EOLhyphen"/>tick and rejoyce upon <hi>this day,</hi> that that Deſign was detected and fruſtrated.</p>
+            </sp>
+            <sp>
+               <speaker>Presbyt.</speaker>
+               <p>I do ſo, and ſo do all true <hi>Proteſtants,</hi> and give thanks to God with our Hearts, who this day Infatuated your Counſels and confounded your Helliſh Devices.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I am not able to bear the thoughts of being burnt the ſame day with this Fellow. I would give a whole years Revenue by my publick Stewes, his Execution might be ſuſpended till the <hi>30th</hi> of <hi>January</hi> next, a proper Seaſon for his Suffering.</p>
+            </sp>
+            <sp>
+               <speaker>Presbyt.</speaker>
+               <p>That's well hinted, <hi>O Abaddon!</hi> I remember it with re<g ref="char:EOLhyphen"/>gret and abhorrency, a day of Blood, of <hi>Royal Blood,</hi> from the <hi>Guilt</hi> of which all your <hi>Holy Water</hi> will never be able to <hi>cleanſe</hi> you. Who ſomented the differences in Church and State, that were the Prologue to that Black Tragedy? Who mingled ſo many Prieſts and Jeſuits in the Army, that fought the Battels againſt his Majeſty of Bleſſed Memory? Who incircled the <hi>Stage,</hi> and made the <hi>Pal<g ref="char:EOLhyphen"/>lace</hi> of our Murdered <hi>Prince</hi> Eccho with Shouts and Acclamations at the fall of that <hi>Head</hi> of Three Kingdoms, and Sung <hi>Te Deums</hi> when the News arrived at <hi>Rome,</hi> but you and your Babyloniſh Crew?—And notwithſtanding your boaſting againſt Hereticks (as you miſcall them) for this you know, and all ſincere Proteſtants believe, that we owe the contrivance and management of that Horrid De<g ref="char:EOLhyphen"/>ſign to <hi>Rome,</hi> as much as any before or ſince.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>You provoke me at that rate, that I muſt paſs Sentence a<g ref="char:EOLhyphen"/>gainſt you.</p>
+            </sp>
+            <sp>
+               <speaker>Presbyt.</speaker>
+               <p>And no more then I expected—<hi>O glorious Infallibility!</hi> to bleſs and curſe the ſame Perſon in the ſame Breath! Fallible <hi>Mug<g ref="char:EOLhyphen"/>gleton</hi> could do no more.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I was miſtaken in you, you ſeemed to be what you are not.</p>
+            </sp>
+            <sp>
+               <speaker>Presbyt.</speaker>
+               <p>But I am not miſtaken in thee,—Thou very <hi>Strum<g ref="char:EOLhyphen"/>bolo</hi> and <hi>Etna</hi> of all Civil and Eccleſiaſtical Erruptions, Commoti<g ref="char:EOLhyphen"/>ons and Plots.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Nay, I know you Hereticks confer the honour of all <hi>Evil</hi> of this kind upon my ſelf and my faithful Adherents.—'Tis ten to one but you will ſay we laid this Plot againſt you, to have you repreſent<g ref="char:EOLhyphen"/>ed (and in you all your Gang) as Perſons more worthy of Flames than Favour?</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:132707:4" rendition="simple:additions"/>
+               <speaker>Presbyt.</speaker>
+               <p>In my Conſcience, <hi>Beelzebub,</hi> thou art a Witch or a Con<g ref="char:EOLhyphen"/>jurer, you gueſs ſo ſhrewdly. For tho' a Company of inconſiderate Boys appeared on the Stage, yet your Actors ſtood behind the Cur<g ref="char:EOLhyphen"/>tain, prompting them on, and glorying in it, to ſee the Seene on <hi>that day</hi> ſo altered, as to burn true Proteſtants in Effigie, inſtead of Popes and Cardinals. I doubt not but the Grave and Learned Maſter of ſome of thoſe Youths, hath ſince taught them more Wit and bet<g ref="char:EOLhyphen"/>ter Manners, than to Confront Authority, at or near the very place where ſo many good Laws have been made to extirpate <hi>Popery,</hi> and eſtabliſh the <hi>Proteſtant Religion;</hi> and where they lately repealed the <hi>Act de Heret. Comb.</hi> never intending, I preſume, that the burn<g ref="char:EOLhyphen"/>ing (no not in Effigie) of true <hi>Proteſtants</hi> ſhould come in the room of it—But who ſhall correct your Agents? Or call to account that <hi>Bell-Weather to the Tories, N. T.</hi> who in his Scurrillous Pam<g ref="char:EOLhyphen"/>phlet, approved and made ſport with it, calling it a ſign of Loy<g ref="char:EOLhyphen"/>alty? That you may diſcern how much he is tickled with the Fan<g ref="char:EOLhyphen"/>cy, take the relation of it in his own Words, in his Mercury <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> the <hi>8th</hi> Inſtant.—<hi>Although</hi> (faith he) <hi>the Scholars of the So<g ref="char:EOLhyphen"/>ciety of St.</hi> Peters Colledge, Weſtminſler, <hi>have been backward in ad<g ref="char:EOLhyphen"/>dreſſing, yet they thought themſelves obliged to give ſome ſignal of their Loyalty; wherefore on</hi> Saturday <hi>laſt, they having dreſſed up</hi> Jack Presbyter <hi>in his proper habit, they ſet him in a Tub, having in his right hand a Seditious Pamphlet, called</hi> Vox Patriae, <hi>and in his left a broad Scroll of Parchment, on which was written the Solemn League and Covenant: On his Cloak there was pinned another piece of Parch<g ref="char:EOLhyphen"/>ment, upon which was written</hi> Ignoramus; <hi>and for a Pulpit Cloath there was nailed on the foreſide of the Tub the Atchievments of</hi> Jack Presbyter. <hi>In this manner the Effigies was brought in proceſſion from the Bowling Ally to the Deans Yard, where he was ſet aloft in the middle of the Yard (the Tub being underpropped with Three very high Legs) ſo when the Loyal Youths had diſcharged ſome dozens of Squibs at him, they brought him to the Fire, which was prepared for their purpoſe, and ſetting about Ten Faggots more under the Tub, they burnt him down with this Elegy</hi>—Magnae nec invidio Tu Presbyter ibis in ig<g ref="char:EOLhyphen"/>nem. <hi>At which a great Shout was given, every one expreſſing Loy<g ref="char:EOLhyphen"/>alty to His Majeſty, and wiſhing that the real Perſon whom the Image repreſented, and all his Followers, had been burnt with it.</hi> Believe it, ſuch a publick Action, and publick Vindication, deſerves a publick Cenſure. Take it with all its Circumſtances of perſon, time, place and manner, and I think the Age paſt cannot pa<g ref="char:EOLhyphen"/>rallel it, and the Age to come will wonder at it, and ſcarce believe it. I know we have often been repreſented, droll'd, and ridicul'd (in the moſt opprobrious manner and Language) on the Stage.
+<pb n="7" facs="tcp:132707:4" rendition="simple:additions"/>But for a Proteſtant, a Proteſtant Divine, well known to be ſuch, by ſome thouſands, both in this and other Kingdoms, to be dreſſed up in a moſt ridiculous manner, hung round with Libels, and repreſented as a Malefactor or Heretick, conjoyned with the Pope, (that red Dragon) and ſacrificed in the ſame flames, on the <hi>Fifth of November,</hi> as if that Plot were as much the Proteſtants as the Papiſts, or as if the Pope and he were equally guilty of the ſame Treaſons and Rebellions. And this too, at ſuch a time, when God had ſo lately detected ſuch an Helliſh Deſign of the Papiſts (and which, no doubt, they are yet vigorouſly carrying on) to the ruin of our King, our Religion, and all that is, or can be dear to us. This, I ſay, was an action heinous, and ſuch as ſcarce any Inſtance can be given of the like. Therefore I muſt firſt lay it at your door, then at the Boys.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I confeſs this burning of Poppets is but Boys play.</p>
+            </sp>
+            <sp>
+               <speaker>Presbyt.</speaker>
+               <p>I care not if there were none of it, but the Reaſon why you diſlike it, is becauſe it was firſt begun againſt you, the Prote<g ref="char:EOLhyphen"/>ſtants being provoked by your continual bloody Deſigns againſt them. But if it be againſt <hi>Hereticks,</hi> and to reproach them, 'tis manly and commendable; witneſs your annual <hi>Proceſſions</hi> of this na<g ref="char:EOLhyphen"/>ture, and burning of Hereticks in ſhow at <hi>Rome.</hi> In which we have once or twice endeavoured to imitate you, upon your <hi>Old Friend Queen Beſſes Day.</hi> Now the truth is, the one you decry as puerile and childiſh, but the other you publickly allow and approve.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Yes, and hope to ſee other gueſs Bonefires made for you Hereticks, than theſe, as we have had formerly; ſuch as ſhall not make ſport for Boys, but affright Men.</p>
+            </sp>
+            <sp>
+               <speaker>Presbyt.</speaker>
+               <p>You muſt ſtay till our Gracious King (whom God long preſerve) is gone off the Stage, and till you have a Prince, and a P— that will re-eſtabliſh that aboliſhed Act, <hi>de Heret. Comb.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Well, we hope the beſt.</p>
+            </sp>
+            <sp>
+               <speaker>Presbyt.</speaker>
+               <p>And ſo do we too; that is, that our King may live to the time when Popes ſhall be no more; till that <hi>Armageddon Battel</hi> be begun, which ſhall end in <hi>Antichriſts Ruin;</hi> and till that Fire be kindled (not of your nor the Devils kindling, but Gods) <hi>into which ſhall be caſt the Devil, the Beaſt,</hi> (with all that receive his Mark) <hi>and the falſe Prophet, and ſhall be tormented day and night, for ever and ever.</hi> Rev. 20.9, 10.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>But why do you ſay 'tis of Gods kindling?</p>
+            </sp>
+            <sp>
+               <speaker>Presbyt.</speaker>
+               <p>For two Reaſons. Firſt, That you may not think 'tis <hi>Purgatory,</hi> a Fiction of your own framing, to deceive the Igno<g ref="char:EOLhyphen"/>rant, and to repleniſh your own Coffers. Secondly, becauſe the Holy Ghoſt (who is truly infallible) ſaith ſo in the forementioned Text; and ſo Antichriſt, or the Beaſt, and all that receive his
+<pb n="8" facs="tcp:132707:5" rendition="simple:additions"/>Mark, ſhall find it; not an imaginary puniſhment (like yours) but real and terrible, <hi>When your Judgments ſhall come in one day, Death and mourning, and you ſhall be burnt with Fire; for ſtrong is the Lord that judgeth you,</hi> Rev. 18.8. In which burning while you and your Adherents ſhall eternally lament your Idolatry and Witch<g ref="char:EOLhyphen"/>crafts, your Cheats and Deluſions, your Profaneſs and Blaſphe<g ref="char:EOLhyphen"/>mies, your Fopperies and Fooleries; many of thoſe you now call and condemn for Hereticks ſhall ſing Triumphant Halleluiahs to the Lamb in Glory, and partake of that <hi>fulneſs of Joy, and thoſe Rivers of Pleaſures, which are at Gods Right hand for evermore,</hi> Pſal. 16.11.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
